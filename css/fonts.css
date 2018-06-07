@@ -1,0 +1,61 @@
+@font-face {
+	font-family: "aspergit";
+	src: url(../fonts/aspergit/Aspergit.otf) format("opentype");
+}
+@font-face {
+	font-family: "aspergit_bold";
+	src: url(../fonts/aspergit/AspergitBold.otf) format("opentype");
+}
+@font-face {
+	font-family: "aspergit_italic";
+	src: url(../fonts/aspergit/AspergitItalic.otf) format("opentype");
+}
+@font-face {
+	font-family: "aspergit_light";
+	src: url(../fonts/aspergit/AspergitLight.otf) format("opentype");
+}
+@font-face {
+	font-family: "dense";
+	src: url(../fonts/dense/Dense-Regular.otf) format("opentype");
+}
+@font-face {
+	font-family: "dual";
+	src: url(../fonts/dual/Dual-300.otf) format("opentype");
+}
+@font-face {
+	font-family: "segan";
+	src: url(../fonts/segan/segan.ttf) format("truetype");
+}
+@font-face {
+	font-family: "dodge";
+	src: url(../fonts/dodge/dodge.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "gillsansstd";
+	src: url(../fonts/gill_sans_std/GillSansStd.otf) format("opentype");
+}
+
+@font-face {
+	font-family: "gillsansbold";
+	src: url(../fonts/gill_sans_std/GillSansStd-Bold.otf) format("opentype");
+}
+@font-face {
+	font-family: "gillsanscondensed";
+	src: url(../fonts/gill_sans_std/GillSansStd-BoldCondensed.otf) format("opentype");
+}
+
+@font-face {
+	font-family: "gillsansbolditalic";
+	src: url(../fonts/gill_sans_std/GillSansStd-BoldItalic.otf) format("opentype");
+}
+
+@font-face {
+	font-family: "trajanpro";
+	src: url(../fonts/trajan_pro/trajan_pro.ttf) format("truetype");
+}
+/*@font-face {
+	font-family: "zapfino";
+	src: url(../fonts/Zapfino.ttf) format("truetype");
+}
+*/

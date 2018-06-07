@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  color: #2ebfc0; }
+  body img {
+    position: relative;
+    margin-top: 1%;
+    width: 80%; }
+  body h4 {
+    margin-top: 2%;
+    font-family: trajanpro; }
+  body ul {
+    display: -webkit-inline-box;
+    font-size: 1.5em;
+    list-style-type: none; }
+    body ul li {
+      margin-right: 10px;
+      cursor: pointer; }
+      body ul li a {
+        text-decoration: none;
+        color: inherit !important; }
+
+/*# sourceMappingURL=index.css.map */
